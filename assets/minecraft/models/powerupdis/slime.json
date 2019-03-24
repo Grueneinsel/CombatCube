@@ -1,0 +1,9 @@
+{
+    "parent": "powerup/slime",
+    "display": {
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale":  [ 0.9, 0.9, 0.9 ]
+		}
+	}
+}
