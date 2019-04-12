@@ -1,0 +1,23 @@
+{
+	"__comment": "Designed by LardTom",
+	"textures": {
+		"screen": "large_display/right",
+		"body": "large_display/body"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, -16, 0 ],
+			"to": [ 32, 32, 5 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 10.75, 16 ], "texture": "#screen" },
+				"west": { "uv": [ 0, 0, 5, 16 ], "texture": "#body" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ -12.8, -43.3, 18 ],
+			"scale":  [ 1.61, 1.61, 1.61 ]
+		}
+	}
+}
