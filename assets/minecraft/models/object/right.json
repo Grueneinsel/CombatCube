@@ -6,11 +6,12 @@
 	},
 	"elements": [ 	 
 		{
+			"__comment": "Element",
 			"from": [ 0, -16, 0 ],
 			"to": [ 32, 32, 5 ],
 			"faces": {
-				"north": { "uv": [ 0, 0, 10.75, 16 ], "texture": "#screen" },
-				"west": { "uv": [ 0, 0, 5, 16 ], "texture": "#body" }
+				"north": { "uv": [ 0, 0, 10.5, 16 ], "texture": "#screen" },
+				"west": { "uv": [ 0.5, 0, 2, 15.5 ], "texture": "#body", "rotation": 180 }
 			}
 		}
 	],
