@@ -26,6 +26,8 @@
 		{ "predicate": {"damaged": 0, "damage": 0.01409352978}, "model": "object/left"},
 		{ "predicate": {"damaged": 0, "damage": 0.0153747597696}, "model": "object/middle"},
 		{ "predicate": {"damaged": 0, "damage": 0.01601537476}, "model": "object/right"},
+		{ "predicate": {"damaged": 0, "damage": 0.01665598974}, "model": "object/laptop"},
+		{ "predicate": {"damaged": 0, "damage": 0.01729660473}, "model": "object/paintbrush"},
 		{ "predicate": {"damaged": 1}, "model": "item/diamond_sword"}
 	]
 }
