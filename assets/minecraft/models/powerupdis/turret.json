@@ -1,5 +1,5 @@
 {
-    "parent": "powerup/blaze",
+    "parent": "powerup/turret",
     "display": {
 		"ground": {
 			"translation": [0, 2, 0],
