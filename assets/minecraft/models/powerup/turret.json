@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by LardTom",
 	"textures": {
-		"particle": "turret",
 		"texture": "item/turret"
 	},
 	"elements": [ 	 

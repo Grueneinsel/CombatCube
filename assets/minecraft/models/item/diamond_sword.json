@@ -23,6 +23,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.01089045484}, "model": "object/display"},
 		{ "predicate": {"damaged": 0, "damage": 0.01217168482}, "model": "object/itembox"},
 		{ "predicate": {"damaged": 0, "damage": 0.01281229981}, "model": "object/jar"},
+		{ "predicate": {"damaged": 0, "damage": 0.0134529148}, "model": "object/netherlamp"},
 		{ "predicate": {"damaged": 0, "damage": 0.01409352978}, "model": "object/left"},
 		{ "predicate": {"damaged": 0, "damage": 0.0153747597696}, "model": "object/middle"},
 		{ "predicate": {"damaged": 0, "damage": 0.01601537476}, "model": "object/right"},
@@ -30,6 +31,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.01729660473}, "model": "object/paintbrush"},
 		{ "predicate": {"damaged": 0, "damage": 0.01793721973}, "model": "object/turret_static"},
 		{ "predicate": {"damaged": 0, "damage": 0.01857783472}, "model": "object/turret_rotate"},
+		{ "predicate": {"damaged": 0, "damage": 0.01921844971}, "model": "object/netherlamp2"},
 		{ "predicate": {"damaged": 1}, "model": "item/diamond_sword"}
 	]
 }
