@@ -1,1 +1,1 @@
-{"textures":{"0":"laptop/main","1":"laptop/secmain","2":"laptop/background1"}
+{"parent":"object/laptopparrent","textures":{"0":"laptop/main","1":"laptop/secmain","2":"laptop/background1"}
