@@ -2,5 +2,11 @@
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/barrier"
-	}
+	},
+	"thirdperson_righthand": {
+			"scale":  [ 0, 0, 0 ]
+		},
+		"firstperson_righthand": {
+			"scale":  [ 0, 0, 0 ]
+		},
 }
