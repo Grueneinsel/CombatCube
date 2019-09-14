@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "block/light_gray_stained_glass"
+	},
+	"display": {
+	"thirdperson_righthand": {
+			"scale":  [ 0, 0, 0 ]
+		},
+		"firstperson_righthand": {
+			"scale":  [ 0, 0, 0 ]
+		}
+	}
+}

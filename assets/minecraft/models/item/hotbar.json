@@ -1,0 +1,4 @@
+{
+	"parent": "item/written_book",
+	"textures":{"1":"item/tablet/screen2"}
+}
