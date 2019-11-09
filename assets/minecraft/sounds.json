@@ -1,11 +1,1 @@
-{
-  "ambient.cave": {
-    "replace": true,
-    "sounds":
-      ["nothing"]},
-	  
-	   "item.book.page_turn": {
-    "replace": true,
-    "sounds":
-      ["nothing"]}
-}
+{"ambient.cave":{"replace":true},"item.book.page_turn":{"replace":true}}
