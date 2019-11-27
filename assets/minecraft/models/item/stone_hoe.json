@@ -4,7 +4,7 @@
 		"layer0": "item/logo"
 	},
 	"display": {
-		"ground":{"scale":[3,3,0]}
+		"ground":{"scale":[3,3,0.2]}
 	}
 }
 }
