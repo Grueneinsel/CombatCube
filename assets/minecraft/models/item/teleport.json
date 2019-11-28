@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ender_pearl"
+	},
+	"display": {
+	"thirdperson_righthand": {
+			"scale":  [ 0, 0, 0 ]
+		},
+		"firstperson_righthand": {
+			"scale":  [ 0, 0, 0 ]
+		}
+	}
+}
