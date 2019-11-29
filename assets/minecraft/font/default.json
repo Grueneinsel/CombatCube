@@ -1,13 +1,6 @@
 {
     "providers": [
         {
-            "type": "ttf",
-            "file": "minecraft:negative_spaces.ttf",
-            "shift": [0.0, 0.0],
-            "size": 10.0,
-            "oversample": 1.0
-        },
-        {
             "type": "bitmap",
             "file": "minecraft:entity/end_gateway_beam.png",
             "ascent": -14,
