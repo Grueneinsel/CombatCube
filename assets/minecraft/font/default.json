@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:entity/end_gateway_beam.png",
+            "file": "minecraft:entity/chicken.png",
             "ascent": -14,
             "height": 10,
             "chars": [
@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:entity/end_gateway_beam.png",
+            "file": "minecraft:entity/chicken.png",
             "ascent": -14,
             "height": 10,
             "chars": [
@@ -20,7 +20,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:entity/end_gateway_beam.png",
+            "file": "minecraft:entity/chicken.png",
             "ascent": -14,
             "height": 10,
             "chars": [
