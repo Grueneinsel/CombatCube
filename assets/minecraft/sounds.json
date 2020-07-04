@@ -1,1 +1,1 @@
-{"ambient.cave":{"replace":true},"item.book.page_turn":{"replace":true}}
+{"ambient.cave":{"replace":true},"item.book.page_turn":{"replace":true},"block.shroomlight.step":{"sounds":["step/stone1","step/stone2","step/stone3","step/stone4","step/stone5","step/stone6"],"replace":true}}
