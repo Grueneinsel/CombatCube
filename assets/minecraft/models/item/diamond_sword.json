@@ -35,6 +35,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.0198590647024}, "model": "object/laptop2"},
 		{ "predicate": {"damaged": 0, "damage": 0.0204996796928}, "model": "object/laptop3"},
 		{ "predicate": {"damaged": 0, "damage": 0.0211402946832}, "model": "object/ddbook"},
+		{ "predicate": {"damaged": 0, "damage": 0.02178090967}, "model": "object/itemboxdis"}
 		{ "predicate": {"damaged": 1}, "model": "item/diamond_sword"}
 	]
 }
