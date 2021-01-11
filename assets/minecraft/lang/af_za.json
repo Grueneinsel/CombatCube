@@ -3,5 +3,5 @@
 	  "effect.minecraft.fire_resistance": "Fire Aspect",
 	  "effect.minecraft.bad_omen": "Broken Weapon",
 	  "effect.minecraft.luck": "Item Luck",
-	  "block.minecraft.set_spawn": ""
+	  "block.minecraft.set_spawn": "","gui.advancements": "§fItem Overview","advancements.toast.task": "§bPress L for an","book.pageIndicator": ""
 }

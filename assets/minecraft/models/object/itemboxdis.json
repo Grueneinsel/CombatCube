@@ -1,1 +1,1 @@
-{"parent":"object/itembox","display":{"gui":{"scale":[1,1,1]}}}
+{"parent":"object/itembox","display":{"gui": {"rotation":[30,225,0],"scale":[0.625,0.625,0.625]}}}
