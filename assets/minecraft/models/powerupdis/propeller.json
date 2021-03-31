@@ -1,5 +1,5 @@
 {
-    "parent": "powerup/propellor",
+    "parent": "powerup/propeller",
     "display": {
 		"ground": {
 			"translation": [0, 3.5, 0],

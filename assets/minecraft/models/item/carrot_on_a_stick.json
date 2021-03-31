@@ -16,7 +16,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.4}, "model": "powerup/slime"},
 		{ "predicate": {"damaged": 0, "damage": 0.44}, "model": "powerup/cactus"},
 		{ "predicate": {"damaged": 0, "damage": 0.48}, "model": "powerup/arrowshield"},
-		{ "predicate": {"damaged": 0, "damage": 0.52}, "model": "powerup/propellor"},
+		{ "predicate": {"damaged": 0, "damage": 0.52}, "model": "powerup/propeller"},
 		{ "predicate": {"damaged": 0, "damage": 0.56}, "model": "powerup/enderorb"},
 		{ "predicate": {"damaged": 0, "damage": 0.6}, "model": "powerup/bombarrows"},
 		{ "predicate": {"damaged": 0, "damage": 0.64}, "model": "powerup/console"},
