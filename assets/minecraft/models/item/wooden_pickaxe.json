@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_pickaxe"
+    },
+	"overrides": [
+        {"predicate": {"custom_model_data": 1},"model": "icon/team_size1"},
+        {"predicate": {"custom_model_data": 2},"model": "icon/team_size2"},
+        {"predicate": {"custom_model_data": 3},"model": "icon/team_size3"},
+        {"predicate": {"custom_model_data": 4},"model": "icon/team_size4"},
+        {"predicate": {"custom_model_data": 5},"model": "icon/team_size5"},
+        {"predicate": {"custom_model_data": 6},"model": "icon/team_size6"},
+        {"predicate": {"custom_model_data": 7},"model": "icon/team_size7"},
+        {"predicate": {"custom_model_data": 8},"model": "icon/team_size8"},
+        {"predicate": {"custom_model_data": 100},"model": "icon/team_size_none"}
+	]
+}

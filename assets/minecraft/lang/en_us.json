@@ -1,7 +1,13 @@
 {
 	"You don't have the latest resource pack installed (Combat Cube 2.2.*). *Click Here* to download the resource pack.":"",
-	  "effect.minecraft.fire_resistance": "Fire Aspect",
-	  "effect.minecraft.bad_omen": "Broken Weapon",
-	  "effect.minecraft.luck": "Item Luck",
-	  "block.minecraft.set_spawn": "","gui.advancements": "§fItem Overview","advancements.toast.task": "§bPress L for an","book.pageIndicator": ""
+	"effect.minecraft.fire_resistance": "Fire Aspect",
+	"effect.minecraft.bad_omen": "Broken Weapon",
+	"effect.minecraft.luck": "Item Luck",
+	"block.minecraft.set_spawn": "",
+	"gui.advancements": "§fItem Overview",
+	"advancements.toast.task": "§bPress L for an",
+	"book.pageIndicator": "",
+	"cc2.settings.no_permissions.arcadia": "You don't have permissions to change the settings. Only the host can change the settings!",
+	"cc2.settings.no_permissions.public": "You don't have permissions to change the settings. %s to get permission!",
+	"cc2.settings.no_permissions.op_click": "*Click here*"
 }

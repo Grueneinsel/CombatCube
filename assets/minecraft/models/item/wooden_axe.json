@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_axe"
+    },
+	"overrides": [
+        {"predicate": {"custom_model_data": 0},"model": "icon/disassembler_off"},
+        {"predicate": {"custom_model_data": 1},"model": "icon/disassembler1"},
+        {"predicate": {"custom_model_data": 2},"model": "icon/disassembler2"},
+        {"predicate": {"custom_model_data": 3},"model": "icon/disassembler3"},
+        {"predicate": {"custom_model_data": 4},"model": "icon/disassembler4"},
+        {"predicate": {"custom_model_data": 5},"model": "icon/disassembler5"},
+        {"predicate": {"custom_model_data": 6},"model": "icon/disassembler6"},
+        {"predicate": {"custom_model_data": 7},"model": "icon/disassembler7"},
+        {"predicate": {"custom_model_data": 8},"model": "icon/disassembler8"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_shovel"
+    },
+	"overrides": [
+        {"predicate": {"custom_model_data": 2},"model": "icon/team_amount2"},
+        {"predicate": {"custom_model_data": 3},"model": "icon/team_amount3"},
+        {"predicate": {"custom_model_data": 4},"model": "icon/team_amount4"},
+        {"predicate": {"custom_model_data": 5},"model": "icon/team_amount5"},
+        {"predicate": {"custom_model_data": 6},"model": "icon/team_amount6"},
+        {"predicate": {"custom_model_data": 7},"model": "icon/team_amount7"},
+        {"predicate": {"custom_model_data": 8},"model": "icon/team_amount8"}
+	]
+}
