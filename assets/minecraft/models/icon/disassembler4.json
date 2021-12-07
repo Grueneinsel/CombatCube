@@ -1,0 +1,7 @@
+{
+	"parent": "icon/parent",
+	"textures": {
+		"layer0": "icon/disassembler",
+		"layer1": "icon/4"
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_pickaxe"
+    },
+	"overrides": [
+        {"predicate": {"custom_model_data": 0},"model": "icon/amount1"},
+        {"predicate": {"custom_model_data": 1},"model": "icon/amount2"},
+        {"predicate": {"custom_model_data": 2},"model": "icon/amount3"},
+        {"predicate": {"custom_model_data": 3},"model": "icon/amount4"}
+	]
+}

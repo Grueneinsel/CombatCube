@@ -1,9 +1,0 @@
-{
-    "parent": "powerup/rocket",
-    "display": {
-		"ground": {
-			"translation": [0, 4, 0],
-			"scale":  [ 1.1, 1.1, 1.1 ]
-		}
-	}
-}

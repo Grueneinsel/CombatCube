@@ -1,5 +1,5 @@
 {
-    "parent": "powerup/spawnegg",
+    "parent": "powerup/spawn_egg",
     "display": {
 		"ground": {
 			"translation": [0, 0, 0],

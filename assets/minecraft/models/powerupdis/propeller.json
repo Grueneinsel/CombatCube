@@ -1,9 +1,0 @@
-{
-    "parent": "powerup/propeller",
-    "display": {
-		"ground": {
-			"translation": [0, 3.5, 0],
-			"scale":  [ 0.45, 0.45, 0.45 ]
-		}
-	}
-}

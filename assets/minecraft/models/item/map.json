@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/map"
+    },
+	"overrides": [
+        {"predicate": {"custom_model_data": 0},"model": "arena/village"},
+        {"predicate": {"custom_model_data": 1},"model": "arena/quarry"},
+        {"predicate": {"custom_model_data": 2},"model": "arena/frozen"},
+        {"predicate": {"custom_model_data": 3},"model": "arena/ruin"},
+        {"predicate": {"custom_model_data": 4},"model": "arena/desert"},
+        {"predicate": {"custom_model_data": 5},"model": "arena/nether"},
+        {"predicate": {"custom_model_data": 6},"model": "arena/moon"},
+        {"predicate": {"custom_model_data": 7},"model": "arena/grave"},
+        {"predicate": {"custom_model_data": 8},"model": "arena/vulcano"},
+        {"predicate": {"custom_model_data": 9},"model": "arena/asia"},
+        {"predicate": {"custom_model_data": 10},"model": "arena/crystal"},
+        {"predicate": {"custom_model_data": 11},"model": "arena/factory"},
+        {"predicate": {"custom_model_data": 12},"model": "arena/station"},
+        {"predicate": {"custom_model_data": 13},"model": "arena/waterfall"},
+        {"predicate": {"custom_model_data": 14},"model": "arena/mushroom"},
+        {"predicate": {"custom_model_data": 15},"model": "arena/mainstreet"},
+        {"predicate": {"custom_model_data": 16},"model": "arena/caves"},
+        {"predicate": {"custom_model_data": 17},"model": "arena/mansion"}
+	]
+}

@@ -12,6 +12,6 @@
         {"predicate": {"custom_model_data": 6},"model": "icon/team_size6"},
         {"predicate": {"custom_model_data": 7},"model": "icon/team_size7"},
         {"predicate": {"custom_model_data": 8},"model": "icon/team_size8"},
-        {"predicate": {"custom_model_data": 100},"model": "icon/team_size_none"}
+        {"predicate": {"custom_model_data": 99},"model": "icon/team_size_none"}
 	]
 }

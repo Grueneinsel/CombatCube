@@ -1,10 +1,12 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/wooden_shovel"
+        "layer0": "item/wooden_hoe"
     },
 	"overrides": [
         {"predicate": {"custom_model_data": 1},"model": "icon/plus"},
-        {"predicate": {"custom_model_data": 11},"model": "icon/minus"}
+        {"predicate": {"custom_model_data": 11},"model": "icon/minus"},
+        {"predicate": {"custom_model_data": 21},"model": "icon/plus_trans"},
+        {"predicate": {"custom_model_data": 31},"model": "icon/minus_trans"}
 	]
 }

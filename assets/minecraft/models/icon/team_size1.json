@@ -1,0 +1,7 @@
+{
+	"parent": "icon/parent",
+	"textures": {
+		"layer0": "icon/team_size",
+		"layer1": "icon/1"
+	}
+}

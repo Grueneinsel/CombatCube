@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "icon/glass_border",
+		"layer1": "icon/cross"
+	}
+}
